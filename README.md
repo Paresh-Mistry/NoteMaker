@@ -213,7 +213,7 @@ Open **http://localhost:3000**
 
 ## 🔌 API Routes
 
-### `GET /api/fathom-meetings`
+### `GET /api/meeting`
 
 Fetches paginated list of Fathom meetings.
 
@@ -240,7 +240,7 @@ Fetches paginated list of Fathom meetings.
 
 ---
 
-### `GET /api/fathom-transcript?recording_id=126171360`
+### `GET /api/transcript?recording_id=126171360`
 
 Fetches timestamped transcript for a specific recording.
 
@@ -259,7 +259,7 @@ Fetches timestamped transcript for a specific recording.
 
 ---
 
-### `POST /api/transcribe`
+### `POST /api/n8n`
 
 Sends transcript to n8n → Gemini AI → returns structured notes.
 
