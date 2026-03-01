@@ -67,6 +67,9 @@ It also supports a **manual mode** where you can paste any transcript or upload 
 ```
 
 <img width="1225" height="543" alt="image" src="https://github.com/user-attachments/assets/b875c654-0a61-46b0-9d24-5f1325c4f922" />
+<img width="1596" height="575" alt="image" src="https://github.com/user-attachments/assets/2a57849f-173a-47e0-8f84-fcb6e2e4ed31" />
+<img width="501" height="591" alt="image" src="https://github.com/user-attachments/assets/fa48240d-03ad-40d8-ba1c-87fc2b9d8bb2" />
+
 
 
 ### Tech Stack
